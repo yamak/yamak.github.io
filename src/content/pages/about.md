@@ -1,37 +1,12 @@
 ---
 title: "About"
-description: "A bit about me and this blog."
+description: "About Yusuf Yamak and this blog."
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+I am Yusuf Yamak, an embedded software engineer working on embedded systems, operating systems, computer architecture, and hardware security, and a PhD researcher in Computer Engineering at Hacettepe University.
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+Most of my engineering work revolves around embedded systems projects at the intersection of software and hardware. I have experience in building embedded Linux systems using Yocto, Buildroot, and LFS methods; developing low-level and user-space software in C and C++; Zynq SoCs; STM32 and NXP family microcontrollers; and developing Qt/QML-based applications.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+In addition, in my PhD studies, I am working on the design of a secure-by-default, RISC-V-based SoC for constrained IoT systems. I am interested in topics such as authenticated boot, hardware-rooted device identity, DICE, trusted execution, hardware-enforced runtime integrity, and control-flow protection. I also work on Hardware Abstraction Layer design, bootloader design, and RTOS support for the SoC I designed. For Zephyr RTOS support, I work on layers such as devicetree and Kconfig definitions, the development of various CMake scripts, the development of the required drivers, and the modification of necessary parts of the kernel, such as the context-switching mechanism. Furthermore, as part of my PhD studies, I am also interested in topics such as side-channel analysis, fault injection, and firmware analysis.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
-
-## Features
-
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
-
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
-
-and so much more.
-
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+I plan for this website to become a platform where I publish the experiences I have gained through my engineering and PhD work, practical experiments, research notes, and open-source work.
