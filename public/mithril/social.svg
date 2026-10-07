@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#0b1721"/>
+<g stroke="#26424d" stroke-width="2" fill="none"><path d="M730 0v140l70 70v80M790 0v110l70 70v110M1200 180h-130l-50 50h-65M1200 240h-110l-50 50h-85M1200 420h-130l-50-50h-65M730 630v-110l70-70v-80M790 630v-80l70-70v-110"/><rect x="744" y="264" width="230" height="170" rx="14" stroke-dasharray="4 8"/></g>
+<rect x="765" y="285" width="190" height="128" rx="8" fill="#15333e" stroke="#5eead4" stroke-width="2"/>
+<path d="M820 362v-43l40 28 40-28v43" fill="none" stroke="#d4faf2" stroke-width="5" stroke-linejoin="round"/>
+<text x="72" y="104" font-family="sans-serif" font-size="19" letter-spacing="3" fill="#5eead4">RISC-V / HARDWARE SECURITY / IoT</text>
+<text x="65" y="280" font-family="sans-serif" font-size="118" font-weight="700" letter-spacing="-5" fill="#f0f9fa">Mithril<tspan fill="#5eead4">.</tspan></text>
+<text x="72" y="354" font-family="sans-serif" font-size="43" fill="#cfdfdf">Security, by default.</text>
+<text x="72" y="431" font-family="sans-serif" font-size="23" fill="#a6bfc6">A proposed secure platform for constrained IoT.</text>
+<path d="M72 505h1056" stroke="#355260"/>
+<text x="72" y="560" font-family="sans-serif" font-size="21" fill="#a6bfc6">A research initiative by Yusuf Yamak</text>
+<text x="1128" y="560" text-anchor="end" font-family="sans-serif" font-size="21" fill="#5eead4">yusufyamak.com/mithril</text>
+</svg>
