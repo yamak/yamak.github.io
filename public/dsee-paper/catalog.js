@@ -46,9 +46,9 @@ window.PAPER_CATALOG = [
     "venue": "IEEE S&P 2025",
     "topic": "Mimari & izolasyon",
     "pdf": "papers/04-mon-cheri-mitigating-uninitialized-memory-access-with-conditional-capabilities.pdf",
-    "guide": null,
-    "minutes": null,
-    "description": "Orijinal makaleyi aç, notlarını bu makaleye özel defterde tut. Etkileşimli Türkçe rehberi henüz hazırlanmadı.",
+    "guide": "guides/mon-cheri.html",
+    "minutes": 45,
+    "description": "Başlatılmamış bellek erişimini conditional capability ile denetle. Operation bound, derleyici dönüşümleri ve WbR deneyleri.",
     "source": "https://www.ericsson.com/en/reports-and-papers/research-papers/mitigating-uninitialized-memory-access-with-conditional-capabilities"
   },
   {
@@ -59,9 +59,9 @@ window.PAPER_CATALOG = [
     "venue": "USENIX Security 2025",
     "topic": "Çalışma zamanı & bütünlük",
     "pdf": "papers/05-kintsugi-secure-hotpatching-for-code-shadowing-real-time-embedded-systems.pdf",
-    "guide": null,
-    "minutes": null,
-    "description": "Orijinal makaleyi aç, notlarını bu makaleye özel defterde tut. Etkileşimli Türkçe rehberi henüz hazırlanmadı.",
+    "guide": "guides/kintsugi.html",
+    "minutes": 45,
+    "description": "RAM’den çalışan firmware’e güvenli hotpatch. Karantina, atomik uygulama ve MPU politikalarını adım adım incele.",
     "source": "https://www.usenix.org/conference/usenixsecurity25/presentation/mackensen"
   },
   {
@@ -72,9 +72,9 @@ window.PAPER_CATALOG = [
     "venue": "IEEE S&P 2025",
     "topic": "Çalışma zamanı & bütünlük",
     "pdf": "papers/06-pearts-provable-execution-in-real-time-embedded-systems.pdf",
-    "guide": null,
-    "minutes": null,
-    "description": "Orijinal makaleyi aç, notlarını bu makaleye özel defterde tut. Etkileşimli Türkçe rehberi henüz hazırlanmadı.",
+    "guide": "guides/pearts.html",
+    "minutes": 50,
+    "description": "Kesilebilir yürütme için uzaktan kanıt. TrustZone-M, müdahale kayıtları ve zaman politikasını birlikte keşfet.",
     "source": "https://arxiv.org/abs/2505.13842"
   },
   {
